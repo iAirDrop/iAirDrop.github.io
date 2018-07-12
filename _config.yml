@@ -1,16 +1,16 @@
 # Site settings
-title: The Shell Project
+title: The iAirDrop Project
 description: The Project Coming Soon
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: SHELL
-user_description: Bitcoin,Ethereum,Blockchain,SmartContract,DAPP,Game
+username: iAirDrop
+user_description: Bitcoin,Ethereum,Blockchain,SmartContract,DAPP,Game,Token,AirDrop
 user_title: The Project Coming Soon.
 email: #
 twitter_username: #
-github_username:  shellOrg
+github_username:  iAirDrop
 gplus_username:  #
 
 # Google-analytics
